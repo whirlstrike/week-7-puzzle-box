@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Projects\\week-7-puzzle-box\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|d:\\unity_projects\\week-7-puzzle-box\\assets\\script\\objectcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|D:\\Unity_Projects\\week-7-puzzle-box\\assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "objectcheck.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\week-7-puzzle-box\\Assets\\script\\objectcheck.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\objectcheck.cs",
+              "ToolTip": "D:\\Unity_Projects\\week-7-puzzle-box\\Assets\\script\\objectcheck.cs",
+              "RelativeToolTip": "Assets\\script\\objectcheck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:14:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dragdrop.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\week-7-puzzle-box\\Assets\\script\\dragdrop.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\dragdrop.cs",
+              "ToolTip": "D:\\Unity_Projects\\week-7-puzzle-box\\Assets\\script\\dragdrop.cs",
+              "RelativeToolTip": "Assets\\script\\dragdrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:05:44.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
