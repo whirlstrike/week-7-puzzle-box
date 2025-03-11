@@ -3,36 +3,31 @@ using System.Collections.Generic;
 using UnityEngine;
 public class DragDropCard : MonoBehaviour
 {
-    private bool isDragging;
 
-    public void OnMouseDown()
-    {
-        isDragging = true;
-    }
-    public void OnMouseUp()
-    {
-        isDragging = false;
-    }
-    public void OnMouseDrag()
-    {
-        Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
-        transform.Translate(mousePosition);
-    }
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        Debug.Log("collision " + other.name);
-    }
-
+    Collider2D ThisColider;
+    Camera Cam;
+    bool IsBeingDragged = false;
     // Start is called before the first frame update
     void Start()
     {
-
+        Cam = Camera.main;
+        ThisColider = GetComponent<Collider2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        Vector3 mousePos = Cam.ScreenToWorldPoint(Input.mousePosition);
+        if (Input.GetMouseButtonDown(0)) 
+        {
+        Collider2D col = Physics2D.OverlapPoint(mousePos);
+            if (col == ThisColider)
+            {
+                transform.position = mousePos;
+            }
+            
+        }
+     
     }
 
 }

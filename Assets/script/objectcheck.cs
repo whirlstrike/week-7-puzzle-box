@@ -9,19 +9,17 @@ public class objectcheck : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "circle")
+        if (collision.tag == "BuildObj")
         {
                 placment = true;
-                Debug.Log("true");
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.tag == "circle")
+        if (collision.tag == "BuildObj")
         {
                 placment = false;
-                Debug.Log("false");
         }
     }
 
