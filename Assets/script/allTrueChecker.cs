@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 
 public class allTrueChecker : MonoBehaviour
@@ -24,6 +25,11 @@ public class allTrueChecker : MonoBehaviour
             if(obj.GetComponent<objectcheck>().placment== false)
             {
                 alltrue = false;
+            }
+
+            if(alltrue == true)
+            {
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
 
         }
