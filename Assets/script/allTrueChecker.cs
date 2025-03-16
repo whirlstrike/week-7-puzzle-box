@@ -9,10 +9,32 @@ public class allTrueChecker : MonoBehaviour
 {
     public List<GameObject> objectcheck;
     public bool alltrue;
+    public bool fall;
+    //public string currentSceneName = SceneManager.GetActiveScene().name;
     // Start is called before the first frame update
     void Start()
     {
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "BuildObj")
+        {
+            fall = true;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "BuildObj")
+        {
+            fall = false;
+        }
+    }
+
+
+
 
     // Update is called once per frame
     void Update()
@@ -31,7 +53,6 @@ public class allTrueChecker : MonoBehaviour
             {
                     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
-
         }
     }
 }
