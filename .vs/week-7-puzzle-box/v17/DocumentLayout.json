@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\assets\\script\\alltruechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|c:\\users\\josh\\documents\\github\\week-7-puzzle-box\\assets\\script\\demo-end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\demo-end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|c:\\users\\josh\\documents\\github\\week-7-puzzle-box\\assets\\script\\alltruechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\alltruechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\assets\\script\\failcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\failcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\assets\\script\\objectcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|c:\\users\\josh\\documents\\github\\week-7-puzzle-box\\assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86CB3C9F-3FD0-0B18-D31A-72A391458385}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +35,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "demo-end.cs",
+              "DocumentMoniker": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\demo-end.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\demo-end.cs",
+              "ToolTip": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\demo-end.cs",
+              "RelativeToolTip": "Assets\\script\\demo-end.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:33:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "failcheck.cs",
+              "DocumentMoniker": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\failcheck.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\failcheck.cs",
+              "ToolTip": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\failcheck.cs",
+              "RelativeToolTip": "Assets\\script\\failcheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:58:13.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "allTrueChecker.cs",
               "DocumentMoniker": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\allTrueChecker.cs",
               "RelativeDocumentMoniker": "Assets\\script\\allTrueChecker.cs",
               "ToolTip": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\allTrueChecker.cs",
               "RelativeToolTip": "Assets\\script\\allTrueChecker.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAWwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T09:23:12.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "objectcheck.cs",
               "DocumentMoniker": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\objectcheck.cs",
               "RelativeDocumentMoniker": "Assets\\script\\objectcheck.cs",
@@ -47,18 +80,17 @@
               "RelativeToolTip": "Assets\\script\\objectcheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T14:14:08.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:14:08.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "dragdrop.cs",
               "DocumentMoniker": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\dragdrop.cs",
               "RelativeDocumentMoniker": "Assets\\script\\dragdrop.cs",
               "ToolTip": "C:\\Users\\josh\\Documents\\GitHub\\week-7-puzzle-box\\Assets\\script\\dragdrop.cs",
               "RelativeToolTip": "Assets\\script\\dragdrop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T14:05:44.123Z",
               "EditorCaption": ""
